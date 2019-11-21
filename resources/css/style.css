@@ -1,0 +1,11 @@
+p {
+   font-family: Verdana;
+   font-weight: Normal;
+   font-size: 50px; 
+   color: white;
+   text-align: Centered;
+}
+
+body{
+   background-color: blue;
+}

@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    text-align:center;
+ }
+
+.title {
+   font-family: Verdana;
+   font-weight: Normal;
+   font-size: 50px; 
+   color: white;
+   text-align:center;
+}
+ p {
+     color: Aquamarine;
+     font-size: 16px;
+     text-decoration: underline;
+ }
+
+ .info {
+     font-family: Verana;
+     font-size: 21px;
+     color: gray;
+ }
+
+ .personal {
+     font-family: Verdana;
+     font-weight: 300;
+     font-size: 42px;
+     color: white;
+     text-align: center;
+
+ }
+
+ .copyright {
+     text-align: right;
+     color:gray;
+ }
+
+ img{
+     text-align:center;
+     padding: 10px;
+ }
+
